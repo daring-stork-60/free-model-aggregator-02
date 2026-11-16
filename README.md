@@ -1,10 +1,10 @@
 # free-model-aggregator-02
 
 [![make.fun · free-model-aggregator-02](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
-[![rank](https://make.fun/badge/free-model-aggregator-02/{owner}/free-model-aggregator-02/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
-[![reward](https://make.fun/badge/free-model-aggregator-02/{owner}/free-model-aggregator-02/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![rank](https://make.fun/badge/free-model-aggregator-02/daring-stork-60/free-model-aggregator-02/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![reward](https://make.fun/badge/free-model-aggregator-02/daring-stork-60/free-model-aggregator-02/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
 
-<!-- NOTE TO THE SUBMITTER: replace {owner} above with the GitHub owner of this repository
+<!-- NOTE TO THE SUBMITTER: replace daring-stork-60 above with the GitHub owner of this repository
      before submitting — the make.fun intake refuses a README that still carries the placeholder. -->
 
 A live free-model aggregator: one server that serves the OpenAI Chat Completions API and the
